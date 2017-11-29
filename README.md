@@ -1,4 +1,4 @@
-# Hackfest Activity 1
+# Hackfest Activity 2
 En este proyecto, vamos a realizar una aplicación web para extraer el texto de una imagen y hacer un clasificador de comprobantes de domicilio.
 Utilizaremos los siguientes servicios de Azure:
 
